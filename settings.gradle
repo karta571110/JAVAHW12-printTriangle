@@ -1,0 +1,2 @@
+include ':app', ':javahw'
+rootProject.name='JAVAHW12'
